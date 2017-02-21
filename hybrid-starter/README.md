@@ -2,6 +2,9 @@
 
 This is the starter application and all other applications are plugins.
 
+This should be a separate repository that checked out into a working directory. We've
+got too many repositories in this organization so we put all of them into sub folders.
+
 ## Start server
 
 Run with
